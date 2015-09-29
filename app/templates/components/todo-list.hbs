@@ -1,0 +1,7 @@
+{{#each todos as |todo|}}
+	{{#if hasBlock}}
+		{{yield}}
+	{{else}}
+		{{todo-item todo=todo}}
+	{{/if}}
+{{/each}}

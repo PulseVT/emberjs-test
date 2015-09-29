@@ -1,0 +1,2617 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sta",
+				"stateParams"
+			],
+			[
+				"roo",
+				"roomchoice"
+			],
+			[
+				"gr",
+				"groupsOfAssignments"
+			],
+			[
+				"as",
+				"assignment"
+			],
+			[
+				"som",
+				"something"
+			],
+			[
+				"pend",
+				"pending_singleSemester"
+			],
+			[
+				"pen",
+				"pending_multiSemester"
+			],
+			[
+				"invok",
+				"invoke_remote"
+			],
+			[
+				"pending",
+				"pending_multiSemester"
+			],
+			[
+				"penin",
+				"pending"
+			],
+			[
+				"some",
+				"something_inner"
+			],
+			[
+				"__d",
+				"__dropSingle_fromWaitlist"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"er",
+				"error"
+			],
+			[
+				"rest",
+				"Restangular"
+			],
+			[
+				"AP",
+				"APISocket"
+			],
+			[
+				"buil",
+				"buildings"
+			],
+			[
+				"bui",
+				"building"
+			],
+			[
+				"b",
+				"buildings"
+			],
+			[
+				"Popp",
+				"poppingUpNotificationMessages"
+			],
+			[
+				"socia",
+				"social_profiles"
+			],
+			[
+				"soci",
+				"social_profiles"
+			],
+			[
+				"stude",
+				"student"
+			],
+			[
+				"soc",
+				"social-icons"
+			],
+			[
+				"Ret",
+				"Restangular"
+			],
+			[
+				"e",
+				"echosign_agreement"
+			],
+			[
+				"save",
+				"savedStates"
+			],
+			[
+				"select",
+				"select_field"
+			],
+			[
+				"stu",
+				"studentTags"
+			],
+			[
+				"tag",
+				"tagId"
+			],
+			[
+				"st",
+				"students"
+			],
+			[
+				"s",
+				"students"
+			],
+			[
+				"obj",
+				"objByStudents"
+			],
+			[
+				"exte",
+				"extendAdd"
+			],
+			[
+				"student",
+				"studentTags"
+			],
+			[
+				"Bak",
+				"BACKEND_FOLDER"
+			],
+			[
+				"local",
+				"localConfig"
+			],
+			[
+				"scrollT",
+				"scrollTo"
+			],
+			[
+				"agre",
+				"agreement_period"
+			],
+			[
+				"inject",
+				"injectToScope"
+			],
+			[
+				"user",
+				"user_multiSemester"
+			],
+			[
+				"assi",
+				"assignments"
+			],
+			[
+				"group",
+				"groupsOfAssignments"
+			],
+			[
+				"data",
+				"databases_path"
+			],
+			[
+				"roomch",
+				"roomchoice_backend"
+			],
+			[
+				"read",
+				"readJSON"
+			],
+			[
+				"Date",
+				"DatePrototype"
+			],
+			[
+				"Strin",
+				"StringPrototype"
+			],
+			[
+				"Array",
+				"ArrayPrototype"
+			],
+			[
+				"ass",
+				"assignmentsToUpdate"
+			],
+			[
+				"new",
+				"newAssignments"
+			],
+			[
+				"suba",
+				"subactionName"
+			],
+			[
+				"aci",
+				"actionName"
+			],
+			[
+				"addT",
+				"addToPendingAssignments"
+			],
+			[
+				"pendin",
+				"pendings"
+			],
+			[
+				"_dr",
+				"_dropSignle_forRenew"
+			],
+			[
+				"pendi",
+				"pendingAssignment"
+			],
+			[
+				"crea",
+				"createdPendings"
+			],
+			[
+				"selected",
+				"selected_period"
+			],
+			[
+				"selec",
+				"selected_period"
+			],
+			[
+				"free",
+				"freeSemesters"
+			],
+			[
+				"seme",
+				"semesters"
+			],
+			[
+				"alre",
+				"already_confirmed"
+			],
+			[
+				"_ca",
+				"_calcSemesters"
+			],
+			[
+				"funn",
+				"funnels"
+			],
+			[
+				"ag",
+				"agreement_period"
+			],
+			[
+				"assignme",
+				"assigned_semesters"
+			],
+			[
+				"semes",
+				"semester"
+			],
+			[
+				"selecte",
+				"selectedLedgers"
+			],
+			[
+				"ORG",
+				"organization"
+			],
+			[
+				"pr",
+				"property"
+			],
+			[
+				"Profile",
+				"ProfileCtrl"
+			],
+			[
+				"Pro",
+				"ProfileCtrl"
+			],
+			[
+				"_han",
+				"_handleNotLogged"
+			],
+			[
+				"co",
+				"cookieStore"
+			],
+			[
+				"_ha",
+				"_handleNotLogged"
+			],
+			[
+				"auth",
+				"authService"
+			],
+			[
+				"error",
+				"errorsHandler"
+			],
+			[
+				"logu",
+				"logout"
+			],
+			[
+				"Login",
+				"LoginCtrl"
+			],
+			[
+				"acti",
+				"activeSemestersIds"
+			],
+			[
+				"model",
+				"modelObj"
+			],
+			[
+				"User",
+				"UserModel"
+			],
+			[
+				"lateFee",
+				"lateFees"
+			],
+			[
+				"con",
+				"constant"
+			],
+			[
+				"late",
+				"lateFeeFormTypifiedAmountField"
+			],
+			[
+				"td",
+				"text-indent"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"be",
+				"beingEdited"
+			],
+			[
+				"lateF",
+				"lateFees"
+			],
+			[
+				"tabl",
+				"table	Tag"
+			],
+			[
+				"la",
+				"late-fees"
+			],
+			[
+				"mana",
+				"manager-dashboard"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"leg",
+				"ledgers"
+			],
+			[
+				"led",
+				"ledgers"
+			],
+			[
+				"stat",
+				"state"
+			],
+			[
+				"tab",
+				"tableHead"
+			],
+			[
+				"Tab",
+				"TableHeadItemCtrl"
+			],
+			[
+				"dire",
+				"directive"
+			],
+			[
+				"table",
+				"tableHead"
+			],
+			[
+				"pa",
+				"payment_amount"
+			],
+			[
+				"set",
+				"setCookie"
+			],
+			[
+				"comp",
+				"compile"
+			],
+			[
+				"cu",
+				"currentPage"
+			],
+			[
+				"grou",
+				"groupsOfAssignments"
+			],
+			[
+				"scr",
+				"scripts_list"
+			],
+			[
+				"sc",
+				"scripts_list"
+			],
+			[
+				"inc",
+				"include_files"
+			],
+			[
+				"inclde",
+				"include_files"
+			],
+			[
+				"incl",
+				"include_files_build"
+			],
+			[
+				"vend",
+				"vendor_files"
+			],
+			[
+				"assets_",
+				"assets_before_vendor"
+			],
+			[
+				"tra",
+				"traitify_assessment_id"
+			],
+			[
+				"get",
+				"getUser"
+			],
+			[
+				"log",
+				"logAndExit"
+			],
+			[
+				"echosign",
+				"echosign_agreement"
+			],
+			[
+				"assig",
+				"assignment"
+			],
+			[
+				"gro",
+				"group_obj"
+			],
+			[
+				"is_lo",
+				"is_locked"
+			],
+			[
+				"is_loc",
+				"is_locked_by_group"
+			],
+			[
+				"lo",
+				"is_locked"
+			],
+			[
+				"coun",
+				"counters_update"
+			],
+			[
+				"_ini",
+				"_initSideMenuCountersSocket"
+			],
+			[
+				"groups",
+				"groupsOfAssignments"
+			],
+			[
+				"custom",
+				"custom-user-group"
+			],
+			[
+				"that",
+				"thatInit"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/styles/app.less",
+			"settings":
+			{
+				"buffer_size": 120,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/styles/components/todo-list.less",
+			"settings":
+			{
+				"buffer_size": 27,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/app.coffee",
+			"settings":
+			{
+				"buffer_size": 465,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/models/todo.coffee",
+			"settings":
+			{
+				"buffer_size": 84,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Projects/emberjs-test/recently_done.txt",
+			"settings":
+			{
+				"buffer_size": 86,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "config/environment.js",
+			"settings":
+			{
+				"buffer_size": 1070,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/templates/application.hbs",
+			"settings":
+			{
+				"buffer_size": 47,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/routes/index.coffee",
+			"settings":
+			{
+				"buffer_size": 125,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/templates/index.hbs",
+			"settings":
+			{
+				"buffer_size": 71,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/components/todo-list.coffee",
+			"settings":
+			{
+				"buffer_size": 110,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/templates/components/todo-list.hbs",
+			"settings":
+			{
+				"buffer_size": 110,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/components/todo-item.coffee",
+			"settings":
+			{
+				"buffer_size": 110,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/templates/components/todo-item.hbs",
+			"settings":
+			{
+				"buffer_size": 94,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/router.coffee",
+			"settings":
+			{
+				"buffer_size": 173,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+					""
+				],
+				[
+					"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "setsyh",
+		"selected_items":
+		[
+			[
+				"setsyh",
+				"Set Syntax: HTML"
+			],
+			[
+				"setsyntahtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"setsyntaxht",
+				"Set Syntax: HTML"
+			],
+			[
+				"setsynhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"setsynh",
+				"Set Syntax: HTML"
+			],
+			[
+				"setsynember",
+				"Set Syntax: EmberScript"
+			],
+			[
+				"instalpac",
+				"Package Control: Install Package"
+			],
+			[
+				"setsyntax",
+				"Set Syntax: CJSX"
+			],
+			[
+				"packainsta",
+				"Package Control: Install Package"
+			],
+			[
+				"gitad",
+				"Git: Add..."
+			],
+			[
+				"gitcom",
+				"Git: Commit"
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"git pushc",
+				"Git: Push Current Branch"
+			],
+			[
+				"gito",
+				"Git: Commit"
+			],
+			[
+				"gitstatu",
+				"Git: Status"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"gitpushc",
+				"Git: Push Current Branch"
+			],
+			[
+				"gitpush",
+				"Git: Push Current Branch"
+			],
+			[
+				"gitpusc",
+				"Git: Push Current Branch"
+			],
+			[
+				"gitpusch",
+				"Git: Push Current Branch"
+			],
+			[
+				"gitpus",
+				"Git: Push Current Branch"
+			],
+			[
+				"gitco",
+				"Git: Commit"
+			],
+			[
+				"gitsta",
+				"Git: Status"
+			],
+			[
+				"gitrad",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"gitstatus",
+				"Git: Status"
+			],
+			[
+				"gicom",
+				"Git: Commit"
+			],
+			[
+				"gitpsch",
+				"Git: Push Current Branch"
+			],
+			[
+				"gitpuh",
+				"Git: Push"
+			],
+			[
+				"gipus",
+				"Git: Push Current Branch"
+			],
+			[
+				"gitstau",
+				"Git: Status"
+			],
+			[
+				"gita",
+				"Git: Add..."
+			],
+			[
+				"g",
+				"Git: Commit"
+			],
+			[
+				"GITPUSHC",
+				"Git: Push Current Branch"
+			],
+			[
+				"sets",
+				"Set Syntax: CSS"
+			],
+			[
+				"gico",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"girad",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"setsyntaxcof",
+				"Set Syntax: CoffeeScript (Angular.js)"
+			],
+			[
+				"gitcm",
+				"Set Syntax: Git Commit Message"
+			],
+			[
+				"gitadd",
+				"Git: Add..."
+			],
+			[
+				"gitocom",
+				"Git: Custom Command"
+			],
+			[
+				"gtpushc",
+				"Git: Push Current Branch"
+			],
+			[
+				"gitushc",
+				"Git: Push Current Branch"
+			],
+			[
+				"gitpuch",
+				"Git: Pull Current Branch"
+			],
+			[
+				"gitush",
+				"Git: Push"
+			],
+			[
+				"gtad",
+				"Git: Add Current File"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"giad",
+				"Git: Add Current File"
+			],
+			[
+				"htmlpre",
+				"HTMLPrettify"
+			],
+			[
+				"gitc",
+				"Git: Commit"
+			],
+			[
+				"gitst",
+				"Git: Status"
+			],
+			[
+				"setsyjso",
+				"Set Syntax: JSON"
+			],
+			[
+				"gitstu",
+				"Git: Status"
+			],
+			[
+				"setsyangu",
+				"Set Syntax: CoffeeScript (Angular.js)"
+			],
+			[
+				"gitdiff",
+				"Git: Diff All Files"
+			],
+			[
+				"gitaeod",
+				"Git: Amend Commit"
+			],
+			[
+				"setstcoffe",
+				"Set Syntax: CoffeeScript (Angular.js)"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"gitstaut",
+				"Git: Status"
+			],
+			[
+				"gitunsta",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"gitom",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"setsyncoffea",
+				"Set Syntax: CoffeeScript (Angular.js)"
+			],
+			[
+				"git sat",
+				"Git: Status"
+			],
+			[
+				"setsycoff",
+				"Set Syntax: CoffeeScript (Angular.js)"
+			],
+			[
+				"setsyancof",
+				"Set Syntax: CoffeeScript (Angular.js)"
+			],
+			[
+				"gipushc",
+				"Git: Push Current Branch"
+			],
+			[
+				"setsyancoff",
+				"Set Syntax: CoffeeScript (Angular.js)"
+			],
+			[
+				"gitocm",
+				"Git: Commit"
+			],
+			[
+				"setsyntacofa",
+				"Set Syntax: CoffeeScript (Angular.js)"
+			],
+			[
+				"gipusch",
+				"Git: Push Current Branch"
+			],
+			[
+				"seyscofa",
+				"Set Syntax: CoffeeScript (Angular.js)"
+			],
+			[
+				"setsycoffa",
+				"Set Syntax: CoffeeScript (Angular.js)"
+			],
+			[
+				"gitstauts",
+				"Git: Status"
+			],
+			[
+				"setsycoffea",
+				"Set Syntax: CoffeeScript (Angular.js)"
+			],
+			[
+				"gitp",
+				"Git: Push Current Branch"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"packain",
+				"Package Control: Install Package"
+			],
+			[
+				"packainst",
+				"Package Control: Install Package"
+			],
+			[
+				"setsynt",
+				"Set Syntax: LESS"
+			],
+			[
+				"pacakinsta",
+				"Package Control: Install Package"
+			],
+			[
+				"sesyncoffe",
+				"Set Syntax: CoffeeScript (Angular.js)"
+			],
+			[
+				"setsyntacoffe",
+				"Set Syntax: CoffeeScript (Angular.js)"
+			],
+			[
+				"setscoffe",
+				"Set Syntax: CoffeeScript (Literate)"
+			],
+			[
+				"setscof",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"PACKAINS",
+				"Package Control: Install Package"
+			],
+			[
+				"packains",
+				"Package Control: Install Package"
+			],
+			[
+				"setsyncof",
+				"Set Syntax: CoffeeScript (Angular.js)"
+			],
+			[
+				"packainsa",
+				"Package Control: Install Package"
+			],
+			[
+				"Setsyntex",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"setsynless",
+				"Set Syntax: LESS"
+			],
+			[
+				"sesless",
+				"Set Syntax: LESS"
+			],
+			[
+				"packageins",
+				"Package Control: Install Package"
+			],
+			[
+				"setscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"setsycss",
+				"Set Syntax: CSS"
+			],
+			[
+				"setsyncoffe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"setsycofe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"syntax coffe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"syntajava",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntaxj",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntaxjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntacss",
+				"Set Syntax: CSS"
+			],
+			[
+				"syntax cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"syntax coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"package instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax jav",
+				"Set Syntax: Java"
+			],
+			[
+				"syntax sa",
+				"Set Syntax: Sass"
+			],
+			[
+				"pre",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"prettify",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"prett",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 222.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Projects/emberjs-test/todo2",
+		"/C/Projects/emberjs-test/todo2/app",
+		"/C/Projects/emberjs-test/todo2/app/models",
+		"/C/Projects/emberjs-test/todo2/app/routes",
+		"/C/Projects/emberjs-test/todo2/app/styles",
+		"/C/Projects/emberjs-test/todo2/app/styles/components",
+		"/C/Projects/emberjs-test/todo2/app/templates/components",
+		"/C/Projects/emberjs-test/todo2/dist"
+	],
+	"file_history":
+	[
+		"/C/Projects/emberjs-test/todo2/app/templates/components/my-component.hbs",
+		"/C/Projects/emberjs-test/todo2/app/components/my-component.coffee",
+		"/C/Projects/emberjs-test/todo2/app/index.html",
+		"/C/Projects/emberjs-test/todo2/app/styles/conponents/todo-list.less",
+		"/C/Projects/emberjs-test/todo2/app/styles/app.css",
+		"/C/Projects/emberjs-test/todo2/app/router.js",
+		"/C/Projects/emberjs-test/todo2/app/app.js",
+		"/C/Projects/emberjs-test/recently_done.txt",
+		"/C/Projects/emberjs-test/todo/code/coffee/code.coffee",
+		"/C/Projects/emberjs-test/todo/index.html",
+		"/C/Projects/emberjs-test/Gruntfile.coffee",
+		"/C/Projects/emberjs-test/code/coffee/code.coffee",
+		"/C/Projects/emberjs-test/bower_components/ember/ember.js",
+		"/C/Projects/emberjs-test/package.json",
+		"/C/Projects/emberjs-test/bower.json",
+		"/C/Projects/emberjs-test/code/js/code.js",
+		"/C/Projects/emberjs-test/code.coffee",
+		"/C/Projects/angular-classy-plugin/classy-on.coffee",
+		"/C/Projects/angular-classy-plugin/bower.json",
+		"/C/Projects/ionic-test/todo/Gruntfile.js",
+		"/C/Projects/ionic-test/todo/app/scripts/coffee/controllers.coffee",
+		"/C/Projects/ionic-test/todo/app/scripts/coffee/app.coffee",
+		"/C/Projects/ionic-test/todo/app/bower_components/ionic/release/css/ionic.css",
+		"/C/Projects/ionic-test/todo/app/index.html",
+		"/C/Projects/ionic-test/todo/package.json",
+		"/C/Projects/ionic-test/todo/app/scripts/configuration.js",
+		"/C/Projects/ionic-test/todo/app/scripts/controllers.js",
+		"/C/Projects/ionic-test/todo/app/scripts/app.js",
+		"/C/Projects/ionic-test/todo2/www/index.html",
+		"/C/Projects/ReactJS-tests/todo/js/main.js",
+		"/C/Projects/ReactJS-tests/todo/cjsx/main.cjsx",
+		"/C/Projects/ReactJS-tests/todo/gruntfile.coffee",
+		"/C/Projects/ReactJS-tests/todo/index.html",
+		"/C/Projects/ReactJS-tests/todo/js/cjsx/main.js",
+		"/C/Projects/ReactJS-tests/todo/main.cjsx",
+		"/C/Projects/ReactJS-tests/react-flux-cart-master/index.html",
+		"/C/Projects/ReactJS-tests/react-flux-cart-master/js/components/FluxCartApp.react.js",
+		"/C/Projects/ReactJS-tests/react-flux-cart-master/js/components/FluxCart.react.js",
+		"/C/Projects/ReactJS-tests/react-flux-cart-master/js/stores/CartStore.js",
+		"/C/Projects/ReactJS-tests/react-flux-cart-master/js/stores/ProductStore.js",
+		"/C/Projects/ReactJS-tests/react-flux-cart-master/js/dispatcher/AppDispatcher.js",
+		"/C/Projects/ReactJS-tests/react-redux-socketio-chat-master/index.js",
+		"/C/Projects/ReactJS-tests/react-redux-socketio-chat-master/client/js/containers/Root.js",
+		"/C/Projects/ReactJS-tests/react-redux-socketio-chat-master/client/js/middleware/index.js",
+		"/C/Projects/ReactJS-tests/react-redux-socketio-chat-master/client/js/middleware/promiseMiddleware.js",
+		"/C/Projects/ReactJS-tests/react-redux-socketio-chat-master/client/js/reducers/activeChannel.js",
+		"/C/Projects/ReactJS-tests/react-redux-socketio-chat-master/client/js/utils/UserAPIUtils.js",
+		"/C/Projects/ReactJS-tests/react-redux-socketio-chat-master/client/js/reducers/userList.js",
+		"/C/Projects/ReactJS-tests/react-redux-socketio-chat-master/client/js/components/ChannelComposer.js",
+		"/C/Projects/ionic-test/myapp/platforms/platforms.json",
+		"/C/Projects/angular2-test/index.html",
+		"/C/Projects/angular2-test/scripts",
+		"/C/Projects/angular2-test/scripts/app.coffee",
+		"/C/Projects/angular2-test/app.coffee",
+		"/C/Projects/roomchoice-frontend/Gruntfile.coffee",
+		"/C/Projects/roomchoice-frontend/build.config.js",
+		"/C/Projects/roomchoice-frontend/src/app/app.coffee",
+		"/C/Projects/roomchoice-frontend/assets/angular-classy/angular-classy.coffee",
+		"/C/Projects/roomchoice-frontend/src/app/config.js",
+		"/C/Projects/roomchoice-frontend/gitignored_things/j.coffee",
+		"/C/Projects/roomchoice-frontend/src/common/services/utils.coffee",
+		"/C/Projects/roomchoice-frontend/version/config.js",
+		"/C/Projects/roomchoice-frontend/src/common/collections.coffee",
+		"/C/Projects/roomchoice-frontend/src/common/factories.coffee",
+		"/C/Projects/roomchoice-frontend/src/common/existence-check.coffee",
+		"/C/Projects/roomchoice-frontend/src/common/auth/auth.coffee",
+		"/C/Projects/roomchoice-frontend/src/app/manager-dashboard/new-lease.coffee",
+		"/C/Projects/roomchoice-frontend/src/common/sockets.coffee",
+		"/C/Projects/roomchoice-frontend/src/app/manager-dashboard/manager-dashboard-counters.coffee",
+		"/C/Projects/roomchoice-frontend/src/app/manager-dashboard/lease/waitlist.coffee",
+		"/C/Projects/roomchoice-frontend/bower.json",
+		"/C/Projects/roomchoice-frontend/vendor/lodash/lodash.js",
+		"/C/Projects/roomchoice-frontend/vendor/ng-ckeditor/libs/ckeditor/build-config.js",
+		"/C/Projects/roomchoice-frontend/node_modules/socket.io-client/node_modules/ws/lib/WebSocketServer.js",
+		"/C/Projects/roomchoice-frontend/src/common/aggregators.coffee",
+		"/C/Projects/roomchoice-frontend/src/common/constants.coffee",
+		"/C/Projects/roomchoice-frontend/src/common/formatters.coffee",
+		"/C/Projects/roomchoice-frontend/src/common/regexes.coffee",
+		"/C/Projects/roomchoice-frontend/src/app/sign-up/sign-up.js",
+		"/C/Projects/roomchoice-frontend/src/app/sign-up/sign-up.tpl.html",
+		"/C/Projects/roomchoice-frontend/src/app/sign-up/room-selection/room-selection.coffee",
+		"/C/Projects/roomchoice-frontend/src/app/sign-up/room-selection/room-selection.tpl.html",
+		"/C/Projects/roomchoice-frontend/src/app/sign-up/room-selection/selected-additional-rent.coffee",
+		"/C/Projects/roomchoice-frontend/src/common/modals/modals.coffee",
+		"/C/Projects/roomchoice-frontend/src/app/run.coffee",
+		"/C/Projects/roomchoice-frontend/src/app/home/home.coffee",
+		"/C/Projects/roomchoice-frontend/gitignored_things/local_config.coffee",
+		"/C/Projects/roomchoice-frontend/src/common/services/property.coffee",
+		"/C/Projects/roomchoice-frontend/src/app/sign-up/room-selection/room-selection.js",
+		"/C/Projects/roomchoice-frontend/src/app/app-config.coffee",
+		"/C/Projects/roomchoice-frontend/src/common/filters.js",
+		"/C/Projects/RoomChoice_frontend/src/common/factories.coffee",
+		"/C/Projects/RoomChoice_frontend/src/app/sign-up/sign-up.js",
+		"/C/Projects/RoomChoice_frontend/src/app/sign-up/room-selection/room-selection.js",
+		"/C/Projects/RoomChoice_frontend/gitignored_things/recently done.txt",
+		"/C/Projects/RoomChoice_frontend/build.config.js",
+		"/C/Projects/RoomChoice_frontend/version/config.js",
+		"/C/Projects/RoomChoice_frontend/default_config.coffee",
+		"/C/Projects/RoomChoice_frontend/gitignored_things/local_config.coffee",
+		"/C/Projects/RoomChoice_frontend/Gruntfile.coffee",
+		"/C/Projects/RoomChoice_frontend/src/index.html",
+		"/C/Projects/RoomChoice_frontend/src/app/app.coffee",
+		"/C/Projects/SSH/id_rsa.ppk",
+		"/C/Projects/SSH/AsusPrivate.ppk",
+		"/C/Projects/RoomChoice_frontend/src/common/services/popping-up-notification-messages/popping-up-notification-messages.coffee",
+		"/C/Projects/RoomChoice_frontend/gitignored_things/Contract500.html",
+		"/C/Projects/RoomChoice_frontend/src/app/run.coffee",
+		"/C/Projects/RoomChoice_frontend/src/common/services/restangularcache.js",
+		"/C/Projects/RoomChoice_frontend/src/common/services/raven.js",
+		"/C/Projects/RoomChoice_frontend/src/app/manager-dashboard/lease/waitlist.coffee",
+		"/C/Projects/RoomChoice_frontend/src/app/manager-dashboard/lease/lease.tpl.html",
+		"/C/Projects/RoomChoice_frontend/src/common/student-pages/profile/profile.tpl.html",
+		"/C/Projects/RoomChoice_frontend/src/common/models/pending-assignment-factory.coffee",
+		"/C/Projects/RoomChoice_frontend/src/app/manager-dashboard/lease/lease.coffee",
+		"/C/Projects/RoomChoice_frontend/src/app/manager-dashboard/lease/lease-cell.coffee",
+		"/C/Projects/RoomChoice_frontend/src/app/manager-dashboard/lease/inc/lease-table.tpl.html",
+		"/C/Projects/RoomChoice_frontend/src/common/lease-table/lease-table.tpl.html",
+		"/C/Projects/RoomChoice_frontend/src/app/student-accounts/profile.coffee",
+		"/C/Projects/RoomChoice_frontend/src/common/student-pages/student-pages.js",
+		"/C/Projects/RoomChoice_frontend/src/common/student-pages/student-pages.tpl.html",
+		"/C/Projects/RoomChoice_frontend/src/common/student-pages/social-icons/social-icons.coffee",
+		"/C/Projects/RoomChoice_frontend/src/less/partials/social-icons.less",
+		"/C/Projects/RoomChoice_frontend/src/less/main.less",
+		"/C/Projects/RoomChoice_frontend/src/common/student-pages/social-icons/social-icons.tpl.html",
+		"/C/Projects/RoomChoice_frontend/src/common/services/global-overlay.coffee",
+		"/C/Projects/RoomChoice_frontend/src/common/directives/application_form/application_form.tpl.html",
+		"/C/Projects/RoomChoice_frontend/src/common/directives/socialLink/social-link.coffee",
+		"/C/Projects/RoomChoice_frontend/src/common/directives/socialLink/social-link.tpl.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"roomchoice-frontend/src/**/*",
+			"roomchoice-frontend/src/**/*coffee",
+			"roomchoice-frontend/src/**/*",
+			"src/**/*",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*less",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/*",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*less",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*html",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*less",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*less",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/*",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/*json",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*less",
+			"Roomchoice_frontend/src/**/*html",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*html",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*html",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*html",
+			"Roomchoice_frontend/src/**/*less",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*less",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*html",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*js",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*html",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*html",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*html",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*html",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*html",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*html",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*coffee",
+			"Roomchoice_frontend/src/**/*js",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*html",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*coffee",
+			"Roomchoice_frontend/src/**/*less",
+			"Roomchoice_frontend/src/**/*coffee",
+			"Roomchoice_frontend/src/**/*html",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*less",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*coffee",
+			"Roomchoice_frontend/src/**/*js",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*coffee",
+			"Roomchoice_frontend/src/**/*html",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/*",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/*",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*less",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/*",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*html",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/*",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*less",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/*",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*css",
+			"Roomchoice_frontend/src/**/*less",
+			"Roomchoice_frontend/src/**/*js",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*less",
+			"Roomchoice_frontend/src/**/*html",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*html",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/*json",
+			"Roomchoice_frontend/*",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/*",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/*",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*html",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*html",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/*",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*html",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*html",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*css",
+			"Roomchoice_frontend/src/**/*less",
+			"Roomchoice_frontend/src/**/*css",
+			"Roomchoice_frontend/src/**/*CSS",
+			"Roomchoice_frontend/src/**/*less",
+			"Roomchoice_frontend/src/**/*les",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/*",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/*",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/*",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*html",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*less",
+			"Roomchoice_frontend/src/**/*",
+			"Roomchoice_frontend/src/**/*js",
+			"Roomchoice_frontend/src/**/*coffee"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"loadInitializers",
+			"EAC",
+			"path",
+			"var",
+			"loadInitializers",
+			"App",
+			"true",
+			"button",
+			"clicked",
+			"tutorial",
+			"no",
+			"wiredep",
+			"json",
+			"index",
+			"<%= code",
+			"coffee",
+			"grunt",
+			"postInit",
+			"on_module",
+			"ion-nav-bar",
+			"ion-view",
+			"ion-v",
+			"'watch",
+			"concurrent",
+			"concurrent.ionic.tasks",
+			"'serve'",
+			"concurrent:",
+			"connect:",
+			"compress",
+			"coffee",
+			"compress",
+			"tasks",
+			"jshint",
+			"'serve'",
+			"watch:",
+			"jshint",
+			"'serve'",
+			"  ",
+			"'serve'",
+			"todo",
+			"development",
+			"apiEndpoint",
+			"$stateParams",
+			"PlaylistCtrl",
+			"PlaylistsCtrl",
+			"$timeout",
+			"doLogin",
+			"ogin",
+			"closeLogin",
+			"\n			}\n			{",
+			"$scope",
+			"true",
+			"menuContent",
+			"state",
+			"module",
+			"data",
+			"starter",
+			"connect:",
+			"wiredep:",
+			"'wiredep'",
+			"'init'",
+			"'serve'",
+			"jshint",
+			"'ionic'",
+			"serve",
+			"serve:",
+			"yes",
+			"react",
+			"node_modules",
+			"build",
+			"coffee",
+			"init",
+			"roomchoice",
+			"assignment",
+			"buildings",
+			"get_buildings",
+			"module",
+			"MirrorSocket",
+			"mirror",
+			"factories",
+			"9953",
+			"ерштп",
+			"arrayName",
+			"__place",
+			"a",
+			"__place",
+			"__field",
+			"remove",
+			"customUserGroups",
+			"derlete",
+			"groupsOfAssignments",
+			"thing",
+			"entry",
+			"$rootScope.$broadcast",
+			"assignment",
+			"null",
+			"rntry",
+			"unlink",
+			"AssignmentsGroup",
+			" @\n			",
+			"@\n",
+			"AssignmentsGroup",
+			"tryApply",
+			"_bindCellActions",
+			"bind",
+			"bindTo",
+			"context",
+			"to",
+			"_bindCellActions",
+			"bind",
+			"mirror",
+			"invoke_remote",
+			"_unlink",
+			"_delete",
+			"_unlink",
+			"mirror",
+			"MirrorSocket",
+			"table",
+			"data.dragged",
+			"semester",
+			"getFrom",
+			"url",
+			"thing",
+			"local",
+			"invoke_remote",
+			"results",
+			"@invoke",
+			"semester"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"addTo",
+			"authService.user",
+			"student-pages/financial-accounts/add-bank-account.tpl.html",
+			"dragged.is_contract_renewer",
+			"build",
+			"mates",
+			"all",
+			"neighbours",
+			"dragged",
+			"@$.dragged",
+			"$scope.dragged",
+			"tryApply",
+			"readOnly",
+			";",
+			";\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/styles/app.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120,
+								120
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/styles/components/todo-list.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								27
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/app.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 465,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								442,
+								442
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/models/todo.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 84,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60,
+								60
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Projects/emberjs-test/recently_done.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 86,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								70,
+								70
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "config/environment.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1070,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								150,
+								150
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/templates/application.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 47,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28,
+								28
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/routes/index.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 125,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								82,
+								82
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/templates/index.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 71,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71,
+								71
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/components/todo-list.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								73,
+								73
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "app/templates/components/todo-list.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								110,
+								110
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "app/components/todo-item.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								110,
+								110
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "app/templates/components/todo-item.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 94,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "app/router.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 173,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								173,
+								173
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 247.0
+	},
+	"pinned_build_system": "",
+	"project": "todo2.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"envir",
+				"config\\environment.js"
+			],
+			[
+				"indehb",
+				"app\\templates\\index.hbs"
+			],
+			[
+				"todoitem",
+				"app\\templates\\components\\todo-item.hbs"
+			],
+			[
+				"todolist",
+				"app\\templates\\components\\todo-list.hbs"
+			],
+			[
+				"ember",
+				"bower_components\\ember\\ember.js"
+			],
+			[
+				"ioniccss",
+				"app\\bower_components\\ionic\\release\\css\\ionic.css"
+			],
+			[
+				"gruntf",
+				"Gruntfile.js"
+			],
+			[
+				"app",
+				"scripts\\app.coffee"
+			],
+			[
+				"coll",
+				"src\\common\\collections.coffee"
+			],
+			[
+				"socke",
+				"src\\common\\sockets.coffee"
+			],
+			[
+				"factori",
+				"src\\common\\factories.coffee"
+			],
+			[
+				"socket",
+				"src\\common\\sockets.coffee"
+			],
+			[
+				"data",
+				"src\\common\\data.coffee"
+			],
+			[
+				"angularclass",
+				"assets\\angular-classy\\angular-classy.coffee"
+			],
+			[
+				"utils",
+				"src\\common\\services\\utils.coffee"
+			],
+			[
+				"mirror",
+				"src\\common\\mirror.coffee"
+			],
+			[
+				"group",
+				"src\\common\\services\\group.coffee"
+			],
+			[
+				"collec",
+				"src\\common\\collections.coffee"
+			],
+			[
+				"lease",
+				"src\\app\\manager-dashboard\\lease\\lease.coffee"
+			],
+			[
+				"config",
+				"src\\app\\config.js"
+			],
+			[
+				"confi",
+				"version\\config.js"
+			],
+			[
+				"waitlist",
+				"src\\app\\manager-dashboard\\lease\\waitlist.coffee"
+			],
+			[
+				"lodas",
+				"vendor\\lodash\\lodash.js"
+			],
+			[
+				"builc",
+				"build.config.js"
+			],
+			[
+				"buildc",
+				"vendor\\ng-ckeditor\\libs\\ckeditor\\build-config.js"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"dashb",
+				"src\\app\\manager-dashboard\\manager-dashboard-counters.coffee"
+			],
+			[
+				"leasecel",
+				"src\\app\\manager-dashboard\\lease\\lease-cell.coffee"
+			],
+			[
+				"ocket",
+				"src\\common\\sockets.coffee"
+			],
+			[
+				"sockets",
+				"node_modules\\socket.io-client\\node_modules\\ws\\lib\\WebSocketServer.js"
+			],
+			[
+				"managerdashboardcounters",
+				"src\\app\\manager-dashboard\\manager-dashboard-counters.coffee"
+			],
+			[
+				"waitlis",
+				"src\\app\\manager-dashboard\\lease\\waitlist.coffee"
+			],
+			[
+				"authcoff",
+				"src\\common\\auth\\auth.coffee"
+			],
+			[
+				"consta",
+				"src\\common\\constants.coffee"
+			],
+			[
+				"forma",
+				"src\\common\\formatters.coffee"
+			],
+			[
+				"regexes",
+				"src\\common\\regexes.coffee"
+			],
+			[
+				"ap",
+				"src\\app\\app.coffee"
+			],
+			[
+				"existe",
+				"src\\common\\exsistence-check.coffee"
+			],
+			[
+				"newlease",
+				"src\\app\\manager-dashboard\\new-lease.coffee"
+			],
+			[
+				"leaseceac",
+				"src\\app\\manager-dashboard\\lease\\lease-cell-actions.coffee"
+			],
+			[
+				"signhtml",
+				"src\\app\\sign-up\\sign-up.tpl.html"
+			],
+			[
+				"selected",
+				"src\\app\\sign-up\\room-selection\\selected-additional-rent.coffee"
+			],
+			[
+				"modals",
+				"src\\common\\modals\\modals.coffee"
+			],
+			[
+				"run",
+				"src\\app\\run.coffee"
+			],
+			[
+				"prop",
+				"src\\common\\services\\property.coffee"
+			],
+			[
+				"appc",
+				"src\\app\\app-config.coffee"
+			],
+			[
+				"roomsehtml",
+				"src\\app\\sign-up\\room-selection\\room-selection.tpl.html"
+			],
+			[
+				"signup",
+				"src\\app\\sign-up\\sign-up.js"
+			],
+			[
+				"rece",
+				"gitignored_things\\recently done.txt"
+			],
+			[
+				"local",
+				"gitignored_things\\local_config.coffee"
+			],
+			[
+				"hom",
+				"src\\app\\home\\home.coffee"
+			],
+			[
+				"roomse",
+				"src\\app\\sign-up\\room-selection\\room-selection.js"
+			],
+			[
+				"fact",
+				"src\\common\\factories.coffee"
+			],
+			[
+				"con50",
+				"gitignored_things\\Contract500.html"
+			],
+			[
+				"factro",
+				"src\\common\\factories.coffee"
+			],
+			[
+				"popp",
+				"src\\common\\services\\popping-up-notification-messages\\popping-up-notification-messages.coffee"
+			],
+			[
+				"leasehtml",
+				"src\\app\\manager-dashboard\\lease\\lease.tpl.html"
+			],
+			[
+				"leasetahtml",
+				"src\\app\\manager-dashboard\\lease\\inc\\lease-table.tpl.html"
+			],
+			[
+				"profilhtml",
+				"src\\common\\student-pages\\profile\\profile.tpl.html"
+			],
+			[
+				"pending",
+				"src\\common\\models\\pending-assignment-factory.coffee"
+			],
+			[
+				"waitlic",
+				"src\\app\\manager-dashboard\\lease\\waitlist.coffee"
+			],
+			[
+				"main",
+				"src\\less\\main.less"
+			],
+			[
+				"indehtml",
+				"src\\index.html"
+			],
+			[
+				"poppi",
+				"src\\common\\services\\popping-up-notification-messages\\popping-up-notification-messages.coffee"
+			],
+			[
+				"appcon",
+				"src\\app\\app-config.coffee"
+			],
+			[
+				"messagecofe",
+				"src\\common\\student-pages\\messages\\messages.coffee"
+			],
+			[
+				"messages",
+				"src\\common\\student-pages\\messages\\messages.coffee"
+			],
+			[
+				"renewl",
+				"src\\common\\directives\\renewLink\\renew-link.tpl.html"
+			],
+			[
+				"stupagesjs",
+				"src\\common\\student-pages\\student-pages.js"
+			],
+			[
+				"global",
+				"src\\common\\services\\global-overlay.coffee"
+			],
+			[
+				"studentpaghtml",
+				"src\\common\\student-pages\\student-pages.tpl.html"
+			],
+			[
+				"applicationf",
+				"src\\common\\directives\\application_form\\application_form.tpl.html"
+			],
+			[
+				"socia",
+				"src\\common\\directives\\socialLink\\social-link.tpl.html"
+			],
+			[
+				"fac",
+				"src\\common\\factories.coffee"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"studpages",
+				"src\\common\\student-pages\\student-pages.js"
+			],
+			[
+				"fitecoffe",
+				"src\\common\\services\\filter\\filter.coffee"
+			],
+			[
+				"manage",
+				"src\\app\\manager-dashboard\\manager-dashboard.coffee"
+			],
+			[
+				"leasecof",
+				"src\\app\\manager-dashboard\\lease\\lease.coffee"
+			],
+			[
+				"leasec",
+				"src\\app\\manager-dashboard\\lease\\lease-cell.coffee"
+			],
+			[
+				"filteco",
+				"src\\common\\services\\filter\\filter.coffee"
+			],
+			[
+				"filter",
+				"build\\src\\common\\services\\filter\\filter.js"
+			],
+			[
+				"filterjs",
+				"build\\src\\common\\services\\filter\\filter.js"
+			],
+			[
+				"contmojs",
+				"build\\src\\app\\manager-dashboard\\sales-funnel\\contract-modal.js"
+			],
+			[
+				"contramohm",
+				"src\\app\\manager-dashboard\\sales-funnel\\contract-modal.tpl.html"
+			],
+			[
+				"conmodal",
+				"src\\app\\manager-dashboard\\sales-funnel\\contract-modal.coffee"
+			],
+			[
+				"moda",
+				"src\\common\\modals\\modals.coffee"
+			],
+			[
+				"salesfunnhtml",
+				"src\\app\\manager-dashboard\\sales-funnel\\sales-funnel-leads-table.tpl.html"
+			],
+			[
+				"rent-",
+				"src\\app\\manager-dashboard\\accounting\\rent-roll\\rent-roll.coffee"
+			],
+			[
+				"rent-r",
+				"src\\app\\manager-dashboard\\accounting\\rent-roll\\rent-roll.coffee"
+			],
+			[
+				"filteith",
+				"src\\common\\services\\filter\\filter_item.tpl.html"
+			],
+			[
+				"filteritems",
+				"src\\common\\services\\filter\\filter_items.tpl.html"
+			],
+			[
+				"filtercoff",
+				"src\\common\\services\\filter\\filter.coffee"
+			],
+			[
+				"filitemht",
+				"src\\common\\services\\filter\\filter_items.tpl.html"
+			],
+			[
+				"filteritem",
+				"src\\common\\services\\filter\\filter_item.tpl.html"
+			],
+			[
+				"dropdowni",
+				"src\\common\\directives\\dropdown\\dropdown-items.tpl.html"
+			],
+			[
+				"dropd",
+				"src\\common\\directives\\dropdown\\dropdown.coffee"
+			],
+			[
+				"drophtml",
+				"src\\common\\directives\\dropdown\\dropdown.tpl.html"
+			],
+			[
+				"dropdown",
+				"src\\common\\directives\\dropdown\\dropdown.coffee"
+			],
+			[
+				"settlemod",
+				"src\\common\\models\\settlement-model.coffee"
+			],
+			[
+				"settlemeco",
+				"src\\app\\manager-dashboard\\accounting\\settlements\\settlements.coffee"
+			],
+			[
+				"settleme",
+				"src\\app\\manager-dashboard\\accounting\\settlements\\settlements.coffee"
+			],
+			[
+				"settlehtml",
+				"src\\app\\manager-dashboard\\accounting\\settlements\\settlements.tpl.html"
+			],
+			[
+				"stuacc",
+				"src\\app\\student-accounts\\student-accounts.js"
+			],
+			[
+				"stuprohtml",
+				"src\\app\\manager-dashboard\\student-profiles\\student-profiles.tpl.html"
+			],
+			[
+				"studeprofilr",
+				"src\\app\\manager-dashboard\\student-profiles\\student-profiles-routing.coffee"
+			],
+			[
+				"signjs",
+				"src\\app\\sign-up\\sign-up.js"
+			],
+			[
+				"signh",
+				"src\\app\\sign-up\\sign-up.tpl.html"
+			],
+			[
+				"dat",
+				"src\\common\\data.coffee"
+			],
+			[
+				"bedm",
+				"src\\common\\models\\bed-model.coffee"
+			],
+			[
+				"collection",
+				"src\\common\\collections.coffee"
+			],
+			[
+				"studeprof",
+				"src\\app\\manager-dashboard\\student-profiles\\student-profiles.coffee"
+			],
+			[
+				"default",
+				"default_config.coffee"
+			],
+			[
+				"exp",
+				"version\\express-version.js"
+			],
+			[
+				"fab",
+				"fabfile.py"
+			],
+			[
+				"expre",
+				"version\\express-version.js"
+			],
+			[
+				"conf",
+				"version\\config.js"
+			],
+			[
+				"studepageshtml",
+				"src\\common\\student-pages\\student-pages.tpl.html"
+			],
+			[
+				"stupages",
+				"src\\common\\student-pages\\student-pages.js"
+			],
+			[
+				"studeprofilde",
+				"src\\app\\manager-dashboard\\student-profiles\\student-profile-detail.tpl.html"
+			],
+			[
+				"studeprofiles",
+				"src\\app\\manager-dashboard\\student-profiles\\student-profiles.coffee"
+			],
+			[
+				"indeh",
+				"src\\index.html"
+			],
+			[
+				"homeco",
+				"src\\app\\home\\home.coffee"
+			],
+			[
+				"homehtl",
+				"src\\app\\home\\home.tpl.html"
+			],
+			[
+				"anchors",
+				"src\\common\\services\\anchor-smooth-scroll.coffee"
+			],
+			[
+				"agreemhtml",
+				"src\\app\\create\\agreement-period\\agreement-period.tpl.html"
+			],
+			[
+				"signupjs",
+				"src\\app\\sign-up\\sign-up.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/D/Учёба 4.1/!Some/scheduling/Template/ForecastingProject.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 728.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
