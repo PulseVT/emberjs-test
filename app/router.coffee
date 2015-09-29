@@ -8,5 +8,6 @@ Router.map ->
 
 	@route 'about'
 	@route 'todos'
+	@route 'wrong-url', path: '*path'
 
 `export default Router`
