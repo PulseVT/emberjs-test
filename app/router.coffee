@@ -2,8 +2,11 @@
 `import config from './config/environment'`
 
 Router = Ember.Router.extend
-  location: config.locationType
+	location: config.locationType
 
 Router.map ->
+
+	@route 'about'
+	@route 'todos'
 
 `export default Router`
